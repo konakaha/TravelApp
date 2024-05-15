@@ -1,0 +1,40 @@
+{
+  "files": {
+    "main.css": "/static/css/main.9bba334a.css",
+    "main.js": "/static/js/main.41f7b6a1.js",
+    "static/media/7e7715f8-1950-448f-bae0-17a60050080c-1670374212391.jpg": "/static/media/7e7715f8-1950-448f-bae0-17a60050080c-1670374212391.cde1fad2b9ead7e7c047.jpg",
+    "static/media/2dd9c6f4-db4e-4429-b833-26f0413105a4-1670389520507.jpg": "/static/media/2dd9c6f4-db4e-4429-b833-26f0413105a4-1670389520507.07065b251316c26aded3.jpg",
+    "static/media/4fd8383c-980c-434e-9d4f-f8aac7cc6313-1670405182697.jpg": "/static/media/4fd8383c-980c-434e-9d4f-f8aac7cc6313-1670405182697.99e03cb8d42046668acd.jpg",
+    "static/media/6249344f-3c95-4be6-917a-527e9d1fff3e-1670405074929.jpg": "/static/media/6249344f-3c95-4be6-917a-527e9d1fff3e-1670405074929.99e03cb8d42046668acd.jpg",
+    "static/media/b328c237-9441-456f-9bbe-553901a59564-1670455242696.jpg": "/static/media/b328c237-9441-456f-9bbe-553901a59564-1670455242696.400b5070388d497590ad.jpg",
+    "static/media/a1eeef7a-84f7-4b4a-99b7-bbcf27b9929b-1670390015999.jpg": "/static/media/a1eeef7a-84f7-4b4a-99b7-bbcf27b9929b-1670390015999.8484501357c370247154.jpg",
+    "static/media/155ad159-982c-456a-8e59-ddb51f2d0606-1670384857523.jpg": "/static/media/155ad159-982c-456a-8e59-ddb51f2d0606-1670384857523.9e61cc22741a3c6d04cd.jpg",
+    "static/media/87e26d92-5c32-482f-8cac-c52eb1c2b39d-1670384924935.jpg": "/static/media/87e26d92-5c32-482f-8cac-c52eb1c2b39d-1670384924935.9e61cc22741a3c6d04cd.jpg",
+    "static/media/e56399be-b2ac-4b21-9e47-57e3f4ccb210-1670650708699.jpg": "/static/media/e56399be-b2ac-4b21-9e47-57e3f4ccb210-1670650708699.c9b66042b1dff85f6144.jpg",
+    "static/media/82ff3a3b-74af-4943-b9b8-c80ad8b6d5e3-1670620872989.jpg": "/static/media/82ff3a3b-74af-4943-b9b8-c80ad8b6d5e3-1670620872989.b5dc3ddd07416c5bc4e5.jpg",
+    "static/media/12964585-df88-44c3-bd8c-8ff73b9ef63c-1670650803397.jpg": "/static/media/12964585-df88-44c3-bd8c-8ff73b9ef63c-1670650803397.4aaf6b6a1a775302f8d5.jpg",
+    "static/media/41661007-69f1-4684-b7aa-0355d06dc813-1670374969689.jpg": "/static/media/41661007-69f1-4684-b7aa-0355d06dc813-1670374969689.0de766226ceb1fea181c.jpg",
+    "static/media/28a7c878-3b79-4619-9c53-1538e4380951-1670452310692.jpg": "/static/media/28a7c878-3b79-4619-9c53-1538e4380951-1670452310692.4f70a32f50d47295b307.jpg",
+    "static/media/f3fac6c5-ad32-4b18-98c0-bf64bf45a812-1670374911896.jpg": "/static/media/f3fac6c5-ad32-4b18-98c0-bf64bf45a812-1670374911896.4f70a32f50d47295b307.jpg",
+    "static/media/dea8b824-f7a9-48db-98b2-146dd4e11562-1670630796623.jpg": "/static/media/dea8b824-f7a9-48db-98b2-146dd4e11562-1670630796623.17057246735228aacde3.jpg",
+    "static/media/e26b5822-d744-4526-b052-5b44092e55e4-1670630255757.jpg": "/static/media/e26b5822-d744-4526-b052-5b44092e55e4-1670630255757.17057246735228aacde3.jpg",
+    "static/media/e4d4fcd5-d62d-431c-9135-31e2ed0370ba-1670630848392.jpg": "/static/media/e4d4fcd5-d62d-431c-9135-31e2ed0370ba-1670630848392.17057246735228aacde3.jpg",
+    "static/media/a46e3579-12b0-44c0-86de-59d847ac304e-1670471409851.jpg": "/static/media/a46e3579-12b0-44c0-86de-59d847ac304e-1670471409851.dc746c1f467eea761d47.jpg",
+    "static/media/pic4.webp": "/static/media/pic4.8883f5b309ef65fe8232.webp",
+    "static/media/3298e785-f62e-4a96-ab77-a075e9a916a4-1670629996892.jpg": "/static/media/3298e785-f62e-4a96-ab77-a075e9a916a4-1670629996892.f84bb1679c02409f7910.jpg",
+    "static/media/3d871d14-b52f-488b-a2bc-27f79e581277-1670628106607.jpg": "/static/media/3d871d14-b52f-488b-a2bc-27f79e581277-1670628106607.9595982a8d31e42bb0d2.jpg",
+    "static/media/pic1.webp": "/static/media/pic1.5069dc1442d2e88fe043.webp",
+    "static/media/pic2.webp": "/static/media/pic2.424bb335541c7f388370.webp",
+    "static/media/airbnb_logo.png": "/static/media/airbnb_logo.cfaaf3fd8a2ad91b17f7.png",
+    "static/media/axios.cjs": "/static/media/axios.1625a2be6a566dade312.cjs",
+    "static/media/pic3.webp": "/static/media/pic3.6f0828ac15980251fe69.webp",
+    "static/media/19c62dda-7135-4142-a97f-440906125bfc-1670367174134.png": "/static/media/19c62dda-7135-4142-a97f-440906125bfc-1670367174134.31970c87ae1c6792a881.png",
+    "index.html": "/index.html",
+    "main.9bba334a.css.map": "/static/css/main.9bba334a.css.map",
+    "main.41f7b6a1.js.map": "/static/js/main.41f7b6a1.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9bba334a.css",
+    "static/js/main.41f7b6a1.js"
+  ]
+}
